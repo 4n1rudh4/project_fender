@@ -1,0 +1,22 @@
+.mapouter{
+    position:relative;
+    text-align:right;
+    width:1200px;
+    height:400px;
+    padding-left: 85px;
+}
+.gmap_canvas{
+    overflow:hidden;
+    background:none!important;
+    width:1200px;
+    height:400px;
+}
+.gmap_iframe{
+    width:1200px!important;
+    height:400px!important;
+}
+.about{
+    padding-left:50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

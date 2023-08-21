@@ -1,0 +1,22 @@
+.soft{
+    padding: 20px;
+    color: grey;
+    justify-content: space-between;
+    display: flex;
+}
+hr{
+    border-top: 3px solid red;
+}
+.link-img{
+    opacity: 70%;
+    padding: 10px;
+    height: 40px;
+    width:40px;
+}
+.link-img:hover{
+    opacity: 100%;
+}
+.foot{
+display: flex;
+justify-content: space-between;
+}
