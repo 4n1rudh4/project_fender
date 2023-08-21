@@ -1,0 +1,63 @@
+.shopping{
+    margin-top:36px;
+    padding-left:50px;
+}
+.divicon{
+    display: flex;
+    margin-top:10px;
+    gap:24px;
+}
+.htitle{
+    padding-left: 50px;
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 102px;
+}
+.hpara{
+    padding-top: 36px;
+    padding-left: 50px;
+    width: 388px;
+    height: 32px;   
+    color: #5A5959;
+    font-size: 19px;
+   font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.btn-d{
+    display:flex;
+    margin-top: 36px;
+    padding-left:50px;
+    gap:40px;
+}
+.general{
+    all:unset; 
+    padding:6px 16px;
+    background: #D01C28;    
+    height:32px;
+    color: white;
+    border-radius: 8px;
+
+}
+.cat{
+    all:unset;
+    padding:6px 16px;
+    height:32px;
+    border: 1px solid #000;
+    border-radius: 8px;
+}
+.logo{
+    width: 158px;
+    height: 66px;
+    flex-shrink: 0;
+}
+.cat:hover{
+    transition: 0.3s ease;
+    background-color: black;
+    color: white;
+}
+.link1{
+    text-decoration: none;
+    color:white;
+}
