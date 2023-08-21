@@ -7,6 +7,7 @@
 @import "components-css/locate.css";
 @import "components-css/cardshop.css";
 @import "components-css/cart.css";
+@import "components-css/login.css";
 *{
     margin: 0;
 }
@@ -21,3 +22,8 @@ body{
 
 
 
+@media only screen and (max-width: 600px) {
+    body {
+      display: block;
+    }
+  }

@@ -1,0 +1,10 @@
+.center{
+    padding: 100px;
+    display: block;
+    margin: auto;
+    
+}
+.echo{
+    all:unset; 
+    color: white;
+}
